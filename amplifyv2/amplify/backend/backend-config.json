@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "amplifyv2010ce240": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
